@@ -1,0 +1,113 @@
+{
+  "sources_count": 13,
+  "users_count": 38,
+  "posts_count": 1922,
+  "comments_count": 193,
+  "reactions_count": 2782,
+  "sources": [
+    {
+      "chat_title": "Dolgolive. Женское активное долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 1325045928,
+      "posts_count": 173,
+      "comments_count": 13,
+      "reactions_count": 29
+    },
+    {
+      "chat_title": "Активное Долголетие в Подмосковье",
+      "chat_type": "channel",
+      "tg_chat_id": 1468185044,
+      "posts_count": 198,
+      "comments_count": 2,
+      "reactions_count": 12
+    },
+    {
+      "chat_title": "Moloday | Активное долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 1803562165,
+      "posts_count": 199,
+      "comments_count": 1,
+      "reactions_count": 487
+    },
+    {
+      "chat_title": "Родник силы / Активное долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 2772366167,
+      "posts_count": 70,
+      "comments_count": 0,
+      "reactions_count": 284
+    },
+    {
+      "chat_title": "Анти-эйдж чат",
+      "chat_type": "supergroup",
+      "tg_chat_id": 3135516567,
+      "posts_count": 30,
+      "comments_count": 170,
+      "reactions_count": 124
+    },
+    {
+      "chat_title": "Наука и анти эйджинг",
+      "chat_type": "channel",
+      "tg_chat_id": 2279888954,
+      "posts_count": 200,
+      "comments_count": 0,
+      "reactions_count": 117
+    },
+    {
+      "chat_title": "«Активное долголетие» г. Иркутска",
+      "chat_type": "channel",
+      "tg_chat_id": 1500038483,
+      "posts_count": 195,
+      "comments_count": 5,
+      "reactions_count": 239
+    },
+    {
+      "chat_title": "\"Активное долголетие\" г.о. Королёв",
+      "chat_type": "channel",
+      "tg_chat_id": 1710558317,
+      "posts_count": 200,
+      "comments_count": 0,
+      "reactions_count": 67
+    },
+    {
+      "chat_title": "АКТИВНОЕ ДОЛГОЛЕТИЕ",
+      "chat_type": "channel",
+      "tg_chat_id": 3507772018,
+      "posts_count": 32,
+      "comments_count": 0,
+      "reactions_count": 77
+    },
+    {
+      "chat_title": "ДОЛГОЛЕТИЕ | КРИСТИНА ЕГИАЗАРОВА",
+      "chat_type": "channel",
+      "tg_chat_id": 2421117823,
+      "posts_count": 200,
+      "comments_count": 0,
+      "reactions_count": 337
+    },
+    {
+      "chat_title": "Московское долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 1735952236,
+      "posts_count": 198,
+      "comments_count": 1,
+      "reactions_count": 344
+    },
+    {
+      "chat_title": "RYABICHKO | Молодость. Энергия. Долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 2381061422,
+      "posts_count": 199,
+      "comments_count": 1,
+      "reactions_count": 609
+    },
+    {
+      "chat_title": "Здоровье и долголетие",
+      "chat_type": "channel",
+      "tg_chat_id": 1984860111,
+      "posts_count": 28,
+      "comments_count": 0,
+      "reactions_count": 56
+    }
+  ]
+}

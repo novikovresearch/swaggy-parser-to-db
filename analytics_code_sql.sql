@@ -40,11 +40,16 @@ AS $$
 DECLARE
     result_avg NUMERIC;
 BEGIN
-    SELECT AVG(p.comment_count::NUMERIC)
+    SELECT ROUND(AVG(comment_per_post::NUMERIC), 2)
     INTO result_avg
-    FROM tg_posts p
-    JOIN tg_chats c ON p.chat_id = c.chat_id
-    WHERE c.title = p_chat_title;
+    FROM (
+        SELECT p.post_id, COUNT(cm.comment_id) AS comment_per_post
+        FROM tg_posts p
+        JOIN tg_chats c ON p.chat_id = c.chat_id
+        LEFT JOIN tg_comments cm ON cm.post_id = p.post_id
+        WHERE c.title = p_chat_title
+        GROUP BY p.post_id
+    ) sub;
 
     RETURN COALESCE(result_avg, 0);
 END;
